@@ -57,6 +57,9 @@ Data_Cleaning_Reporting_Automation/
 - Sales by Region
 - Interactive Filters (Category, Segment, Region)
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
 ---
 
 ## 🚀 Output
