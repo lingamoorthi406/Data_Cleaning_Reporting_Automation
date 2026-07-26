@@ -1,0 +1,5 @@
+DATA CLEANING REPORT
+====================
+Rows: 9994
+Columns: 19
+Duplicates: 0
