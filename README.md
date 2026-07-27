@@ -60,7 +60,7 @@ Data_Cleaning_Reporting_Automation/
 - 
 ## 📊 Dashboard Preview
 
-![Dashboard](image file.png)
+![Dashboard](dashboard.png)
 
 ## 🚀 Output
 
